@@ -3,11 +3,11 @@ import React, { FC } from 'react';
 export const GithubIcon: FC = () => {
     return (
         <a
-            href="https://github.com/StreakingMan/solvable-sheep-game"
+            href="https://github.com/lvdouhhhhh/solvable-sheep-game"
             target="_blank"
             rel="noreferrer"
         >
-            点个✨不迷路 @StreakingMan
+            项目地址
             <svg
                 height="24"
                 aria-hidden="true"
